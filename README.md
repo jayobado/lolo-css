@@ -6,7 +6,7 @@ A framework-agnostic atomic CSS-in-JS engine. Zero dependencies. Works with Vue,
 
 ```bash
 # Deno
-deno add @jayobado/lolo-css
+deno add jsr:@jayobado/lolo-css
 
 # npm
 npx jsr add @jayobado/lolo-css
